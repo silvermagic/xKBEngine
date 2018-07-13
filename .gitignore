@@ -1,0 +1,8 @@
+x64
+*.vcxproj*
+.vs
+Debug
+*.sln
+Release
+__pycache__
+*.pyc
